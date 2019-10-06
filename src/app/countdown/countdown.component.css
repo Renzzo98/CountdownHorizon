@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Lobster&display=swap');
+
+.countdown {
+  background-color: transparent;
+  font-family: 'Arvo', serif;
+}
+
+.heading-msg{
+  font-family: 'Lobster', cursive;
+  font-size: 100px;
+  color: white;
+  margin-bottom: 10px;
+
+
+}
+
+.logo{
+  margin-top: 90px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
